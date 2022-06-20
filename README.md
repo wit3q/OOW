@@ -1,0 +1,2 @@
+# OOW
+Open Office Wzorzec
